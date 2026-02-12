@@ -44,7 +44,7 @@ El objetivo es analizar datos históricos de ventas y competencia para construir
 - **competencia_df**: contiene las variables `['fecha', 'producto_id', 'Amazon', 'Decathlon', 'Deporvillage']`
 
 ## ✨ Autoría
-Proyecto realizado por [tu nombre] para portfolio profesional. 
+Proyecto realizado por  MELVIN NAVAS SANTOS para portfolio profesional. 
 
 ---
 ¡No dudes en contribuir o consultar cualquier duda!
